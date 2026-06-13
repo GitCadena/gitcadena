@@ -79,11 +79,4 @@ Desarrollador Full Stack con ~2 años de experiencia, orientado a construir **ap
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitCadena&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitCadena&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center"><i>Construyendo software seguro, una sesión protegida a la vez. 🛡️</i></p>
+<p align="center">📍 Popayán, Colombia · Abierto a oportunidades en desarrollo web y ciberseguridad.</p>
