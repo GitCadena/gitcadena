@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="70" viewBox="0 0 760 70" fill="none" role="img" aria-label="Desarrollador Full Stack, Seguridad Web y Manifest V3, Proteccion de sesiones XSS y CSRF">
   <g font-family="'Fira Code','Cascadia Code','Consolas',ui-monospace,monospace" font-weight="600" font-size="24" fill="#58A6FF" text-anchor="middle">
-    <text x="380" y="44" opacity="0">&#9656; Desarrollador Full Stack
-      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.02;0.31;0.33;1"/>
+    <text x="380" y="44">&#9656; Desarrollador Full Stack
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="1;1;0;0;1" keyTimes="0;0.30;0.36;0.97;1"/>
     </text>
     <text x="380" y="44" opacity="0">&#9656; Seguridad Web &#183; Manifest V3
-      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.33;0.35;0.64;0.66;1"/>
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.30;0.36;0.63;0.69;1"/>
     </text>
     <text x="380" y="44" opacity="0">&#9656; Protecci&#243;n de sesiones &#183; XSS &#183; CSRF
-      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.66;0.68;0.97;1"/>
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.63;0.69;0.97;1"/>
     </text>
   </g>
 </svg>
-
