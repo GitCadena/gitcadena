@@ -80,7 +80,7 @@ Desarrollador Full Stack con ~2 años de experiencia, orientado a construir **ap
 ---
 
 <p align="center">
-  <a href="https://github.com/GitCadena"><img src="https://raw.githubusercontent.com/GitCadena/gitcadena/main/banner.svg" alt="Desarrollador Full Stack · Seguridad Web · Manifest V3 · XSS · CSRF" /></a>
+  <a href="https://github.com/GitCadena"><img src="banner.svg" alt="Desarrollador Full Stack · Seguridad Web · Manifest V3 · XSS · CSRF" /></a>
 </p>
 
 <p align="center">📍 Popayán, Colombia · Abierto a oportunidades en desarrollo web y ciberseguridad.</p>
